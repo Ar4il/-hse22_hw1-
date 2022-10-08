@@ -51,7 +51,11 @@ $ platanus scaffold -o Poil -c Poil_contig.fa -IP1 sub1.fastq.trimmed sub2.fastq
 $ platanus gap_close -o Poil -c Poil_scaffold.fa -IP1 sub1.fastq.trimmed sub2.fastq.trimmed -OP2 matep1.fastq.int_trimmed matep2.fastq.int_trimmed
 
 Отчет для неурезанных чтений
+
 ![image](https://user-images.githubusercontent.com/84396301/194705983-952d7024-49cd-4149-bc51-0af944cb8378.png)
+
 ![image](https://user-images.githubusercontent.com/84396301/194705992-0c36de0c-4d6c-4ce1-acad-9b0627affe18.png)
+
 ![image](https://user-images.githubusercontent.com/84396301/194706000-722c8c1a-3c48-4f78-b3b9-e7296ad14092.png)
+
 ![image](https://user-images.githubusercontent.com/84396301/194706025-21a943c8-6dd5-42a3-9dc8-f721d17fa230.png)
