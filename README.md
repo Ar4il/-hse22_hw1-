@@ -59,3 +59,11 @@ $ platanus gap_close -o Poil -c Poil_scaffold.fa -IP1 sub1.fastq.trimmed sub2.fa
 ![image](https://user-images.githubusercontent.com/84396301/194706000-722c8c1a-3c48-4f78-b3b9-e7296ad14092.png)
 
 ![image](https://user-images.githubusercontent.com/84396301/194706025-21a943c8-6dd5-42a3-9dc8-f721d17fa230.png)
+
+Отчет для урезанных
+![image](https://user-images.githubusercontent.com/84396301/194706240-839ef3ab-aa21-4fc8-be67-c8b89fee2bb8.png)
+
+![image](https://user-images.githubusercontent.com/84396301/194706259-16a509ef-aba5-41ba-aed6-16ba6c86a32a.png)
+
+
+
