@@ -3,9 +3,13 @@ minor hw1
 Сборка генома бактерии, выделенной из воды с нефтью, на основании парно-концевых (paired-end, PE) и чтений типа mate-pairs (MP).
 Чепель Артем группа 2
 Работа с Putty
+
 1 Создание символических ссылок
+
 $ ls /usr/share/data-minor-bioinf/assembly/* | xargs -tI{} ln -s {} 
+
 2 Выбор случайных чтений с помощью SeqTK (Random seed = 928)
+
 $ seqtk sample -s 928 oil_R2.fastq 5000000 > sub2.fastq
 $ seqtk sample -s 928 oilMP_S4_L001_R1_001.fastq 1500000 > matep1.fastq
 $ seqtk sample -s 928 oilMP_S4_L001_R2_001.fastq 1500000 > matep2.fastq
